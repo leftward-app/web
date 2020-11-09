@@ -1,8 +1,8 @@
 title: Leftward App
 email: your-email@example.com
 # description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/leftward"
+url: "https://justifiedfalsebeliefs.github.io"
 
 # Build settings
 # theme: minima
