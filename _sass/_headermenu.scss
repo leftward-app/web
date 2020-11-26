@@ -1,3 +1,30 @@
-#headermenu {
+#header-menu {
 	display: none;
+		@media screen and (max-width: $breakpoint-med){
+			border: 1px solid var(--color-bg-secondary);
+			border-radius: var(--border-radius);
+			box-shadow: var(--box-shadow) var(--color-shadow);
+			margin: 1rem;
+			padding: 1.25rem;
+		}
+
+	@media screen and (min-width: $breakpoint-med){
+		display: flex;
+	}
+
+	&.show {
+		@media screen and (max-width: $breakpoint-med){
+			display: flex;
+			flex-basis: 100%;
+			flex-direction: column;
+		}
+		display: flex;
+	}
+}
+
+#menu-switcher{
+	cursor: pointer;
+	@media screen and (min-width: $breakpoint-med){
+		display: none;
+	}
 }
