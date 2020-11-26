@@ -1,7 +1,12 @@
 nav{
-	margin-bottom: 3rem;
+	margin-bottom: 4rem;
 	flex-wrap: wrap;
+	ul li{
+		margin: 0 .75rem;
+	}
 }
+
+
 
 .logo{
 	margin: .5rem;
@@ -28,13 +33,12 @@ nav{
 }
 
 h1{
-	padding: 2rem 0;
-	text-align: center;
-	font-size: 3.8rem;
+	padding: 1rem 0 3rem 0;
+	font-size: 5rem;
 	line-height: 0.5;
 	letter-spacing: -2px;
 	span{
-		font-size: 2rem;
+		font-size: 3rem;
 		line-height: 2.2;
 	}
 }
@@ -42,6 +46,7 @@ h1{
 .intro-split{
 	display: flex;
 	flex-wrap: wrap;
+	text-align: center;
 	.left{
 		flex: 1 1 100%;
 		@media screen and (min-width: $breakpoint-lg){
@@ -53,7 +58,8 @@ h1{
 		text-align: center;
 
 		@media screen and (min-width: $breakpoint-sm){
-			flex: 1 1 40%;
+			flex: 1 1 auto;
+			margin-left: 1rem;
 		}
 	}
 }
