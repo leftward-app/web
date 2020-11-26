@@ -2,8 +2,20 @@
 <html lang="en">
 {% include head.html %}
 <body>
-  <main>
-    {{content}}
-  </main>
+	<main>
+		<nav>
+			<div class="logo">
+				<a href="#"><img id="logo" src="{{ "/assets/img/leftward-logo-nomargin-00.png" | absolute_url}}"></a>
+				<span id="site-title">Leftward</span>
+			</div>
+			<ul>
+				<li><a href="#">Menu Item 1</a></li>
+				<li><a href="#">Menu Item 2</a></li>
+				<li><a href="#">Menu Item 3</a></li>
+			</ul>
+		</nav>
+
+		{{content}}
+	</main>
 </body>
 </html>
