@@ -1,8 +1,8 @@
 title: Leftward App
 email: your-email@example.com
 # description:
-baseurl: "/leftward"
-url: "https://justifiedfalsebeliefs.github.io"
+baseurl: ""
+url: "https://leftward.app"
 
 # Build settings
 # theme: minima
