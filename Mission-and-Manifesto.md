@@ -3,10 +3,10 @@
 ## Our Mission
 **We build tools that remove the barriers between values and action.**
 
-In the United States of America, there is overwhelming popular support for progressive policy. Most understand that a more equal, more just, and more democratic America is a better one - and yet so much stands between The People and bringing about this change. We clear away these barriers by providing vetted, impactful actions to anyone who wants to bring about a better world. 
+In the United States of America, there is overwhelming popular support for progressive policy. Most understand that a more equal, more just, and more democratic America is a better one - and yet so much stands between The People and bringing about this change. We clear away these barriers by connecting anyone who wants to bring about a better world to vetted, impactful actions. 
 
 By matching the needs of organizers to activists looking for an opportunity to make change, we:
-- Empower Organizers by amplifying the impact of campaings, policy agendas, and direct action 
+- Empower Organizers by amplifying the impact of campaigns, policy agendas, and direct action 
 - Mobilize Activists by providing concrete ways to support the causes they care about, at any contribution level 
 
 
